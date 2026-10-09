@@ -19,7 +19,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Software Engineering student at **APTECH**
-- 🚀 Co-founder & lead developer of **[OJA247](https://github.com/LaBoss999/OJA247)** — a digital marketplace helping Nigerian small businesses bring their existing customers online
+- 🚀 Co-founder & lead developer of **[OJA247](https://github.com/MesoTheArtist/OJA247)** — a digital marketplace helping Nigerian small businesses bring their existing customers online
 - 🧩 Comfortable across the stack — JavaScript/TypeScript day-to-day, plus C#, Java, and C
 - 🎨 Design-engineer mindset: I can take a feature from Figma / Corel / Photoshop mockup to shipped backend logic
 - 💬 Ask me about React, Angular, Flutter, Node/Express, MongoDB, WordPress, or payment integrations
